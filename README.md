@@ -6,3 +6,6 @@ Hospital Reminder Telegram Bot is a Telegram bot designed to send reminders to h
 ### Requirements:
 - Python 3.7+
 - Registered bot in Telegram and received API token
+
+
+*In order to become an admin, you need to get your ID through a special telegram bot (@userinfobot)
