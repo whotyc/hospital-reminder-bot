@@ -5,7 +5,6 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.date import DateTrigger
 from datetime import datetime
-from telegram.constants import ParseMode
 
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
