@@ -16,7 +16,7 @@ scheduler = BackgroundScheduler()
 scheduler.start()
 
 
-OWNER_ID = '833830825'
+OWNER_ID = ''
 patients = []
 
 
